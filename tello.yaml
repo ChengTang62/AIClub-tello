@@ -1,0 +1,16 @@
+name: tello-demo
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - opencv
+  - setuptools
+#  - pip
+  # - pip:
+  #     - djitellopy
+  #     - pygame
+
+
+# TODO
+  # not able to install djitellopy pygame, installed manually using pip
+  # add jupyter
